@@ -1,17 +1,11 @@
 @charset "utf-8";
-.btn-lg {
-	background-color: hsla(278,100%,33%,1.00);
-	color: hsla(0,39%,90%,1.00);
+.btn-danger {
+	color: #fff;
+	background-color: #B3D8FF;
+	border-color: #B3D8FF;
 }
-.btn-primary {
-	background-color: hsla(359,100%,50%,1.00);
-}
-.btn-default {
-	background-color: hsla(230,100%,50%,1.00);
-	color: hsla(0,0%,100%,1.00);
-}
-
-
-body p {
-
+.band-hero {
+	background-color: hsla(0,0%,58%,1.00);
+	padding-top: 100px;
+	padding-bottom: 100px;
 }
